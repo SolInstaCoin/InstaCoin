@@ -1,18 +1,23 @@
 {
-    "name": "GrokX",
-    "symbol": "GroX",
-    "description": "Grok and Xai",
-    "image": "https://i.ibb.co/fVrjtGc8/Chat-GPT-Image-5-May-2025-02-11-03.png",
-    "seller_fee_basis_points": 0,
-    "attributes": [],
-    "properties": {
-      "files": [
-        {
-          "uri": "https://i.ibb.co/fVrjtGc8/Chat-GPT-Image-5-May-2025-02-11-03.png",
-          "type": "image/jpeg"
-        }
-      ],
-      "category": "image"
-    }
+  "name": "GrokX",
+  "symbol": "GrokX",
+  "description": "GrokX TwitterGrok and Xai",
+  "image": "https://i.ibb.co/fVrjtGc8/Chat-GPT-Image-5-May-2025-02-11-03.png",
+  "seller_fee_basis_points": 1000,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.ibb.co/fVrjtGc8/Chat-GPT-Image-5-May-2025-02-11-03.png",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "A8U7AmHJkPDMG49sfNZzP98qvCfTYZeTyaxudsE3oqgv",
+        "share": 100
+      }
+    ]
   }
-  
+}
