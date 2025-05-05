@@ -1,14 +1,15 @@
 {
   "name": "InstaCoin",
   "symbol": "INST",
-  "description": "Elon Musk will buy Instagram",
-  "image": "https://i.ibb.co/LXg24Ykb/Chat-GPT-Image-4-May-2025-23-03-15.png",
+  "description": "Instagram? Elon already added it to his cart — checkout with $INST.",
+  "image": "https://iili.io/3NwHDkQ.md.png",
   "seller_fee_basis_points": 0,
+  "external_url": "https://x.com/InstaCoinOfSol",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://i.ibb.co/LXg24Ykb/Chat-GPT-Image-4-May-2025-23-03-15.png",
+        "uri": "https://iili.io/3NwHDkQ.md.png",
         "type": "image/png"
       }
     ],
